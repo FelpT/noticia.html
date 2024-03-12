@@ -1,12 +1,13 @@
 # noticia.html
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>Portal de Noticias by Filipe</title>
-    </head>
-    <body>
+    <head>Containers!! </head>
+    <body><header> <h1>Meu Portal de Noticias</h1>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0gw9dVhF2uwqvDnUCTQY5t_DWqiFmf5osJ6QmCRPKpwDmY_stEbs1fIRbyFajEEj9pAc&usqp=CAU">
+          </header>
+        <main>
         <h1>Dengue: entenda por que a forma grave da doença não deve ser chamada de hemorrágica</h1>
-        <h2>Hemorragia não é o principal sintoma da dengue grave.</h2>
+      <article> <h2>Hemorragia não é o principal sintoma da dengue grave.</h2>
         <p>
             Por muitos anos, a forma mais severa da dengue foi classificada como <strong>"dengue hemorrágica"</strong>, mas o termo não é mais usado pela comunidade médica. Em 2009, a Organização Mundial da Saúde (OMS) alterou para <strong>"dengue grave"</strong>, movimento aderido pelo Ministério da Saúde em 2014.
         </p>
@@ -18,8 +19,8 @@
         </p>
         <p>
             O infectologista Alexandre Naime, coordenador científico da Sociedade Brasileira de Infectologia (SBI) e professor da Unesp,<em>reforça que o termo</em> <strong>"hemorrágica"</strong> causou confusões até mesmo nos atendimentos médicos. "A hemorragia é apenas um dos sintomas de gravidade. Quando o paciente <em>não tinha sangramento</em>, muitas vezes erroneamente, <em>a infecção era interpretada como caso leve"</em>, afirma Naime.
-        </p>
-        <h3>Classificação dos tipos de dengue</h3>
+        </p></article>
+        <article><h3>Classificação dos tipos de dengue</h3>
         <dl>
             <strong><dt>Tipo A (dengue classica)</dt></strong>
             <dd>- apresenta febre, dor no corpo, articulações, vermelhidão, mas sem sinais de alarme, sem condição especial, sem risco social e sem comorbidades. O paciente deve ser monitorado com hidratação oral.
@@ -36,5 +37,13 @@
  </dd>
          
 </dl>
+</article>
+</main>
+<footer> 
+ <p>Pagina feita por Filipe Menezes Fernandes.</p>
+ <ul>
+ <li><a <a href="https://www.instagram.com/_felp_t/".>Instagram do autor</a></li>
+ </ul>
+</footer>
 </body>
 </html>
